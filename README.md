@@ -31,3 +31,5 @@
 
    # построение графиков (создаст PNG в results/)
    python3 scripts/plot.py
+## Ссылки
+- Репозиторий: https://github.com/Shkundin/A3i
